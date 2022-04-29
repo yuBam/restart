@@ -31,9 +31,22 @@ export default class  Player extends Phaser.Physics.Matter.Sprite {
         this.setVelocity(playerVelocity.x,playerVelocity.y);
     
     }       
+//https://darkpixel-kronovi.itch.io/rogue-knight
 
+//https://rvros.itch.io/pixel-art-animated-slime
 
+//https://elthen.itch.io/2d-pixel-art-fox-sprites
 
+/*
+🖥️ WRITING MY FIRST MACHINE LEARNING GAME! (1/4)
+
+OpenAI Plays Hide and Seek…and Breaks The Game! 🤖 Two Minute Papers Two Minute Papers Bestätigt • 7,1 Mio. Aufrufe vor 2 Jahren
+
+https://phasergames.com/json-animations-in-phaser-3/
+
+https://www.youtube.com/watch?v=ffemDAdJySU
+
+*/
 
 }
 
